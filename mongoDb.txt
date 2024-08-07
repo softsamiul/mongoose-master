@@ -1,9 +1,0 @@
-Q. What is mongoDB?
-Ans: MongoDB is a noSQL database storing data in JSON-like documents. 
-
-Q. Why MongoDB?
-Ans: 
-1. Scalable high-performance & open source
-2. Document oriented database
-3. Cost effective datase
-4. Rich eco-system of tools, documentation nd coomunity

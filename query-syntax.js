@@ -31,13 +31,4 @@ $set:
 updateOne({select what need to update}, $set({add what value need to update}))
 updateOne({age:10}, $set({age:1}))
 
-
-
-
-
-
-
-
-
-
 */

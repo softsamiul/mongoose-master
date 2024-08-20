@@ -34,6 +34,9 @@ Big Data Size
 Scalability 
 Flexibility 
 
+Collscan : Line by line scan the entire collection 
+Indexing/ Ixscan : Will create a list where we have which document 
+
 
 
 
